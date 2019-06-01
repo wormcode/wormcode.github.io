@@ -188,6 +188,11 @@
   </url>
   
   <url>
+    <loc>https://wormcode.github.io/post/reinforcement-learning-an-introduction-translate-copy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wormcode.github.io/categories/</loc>
     <priority>0</priority>
   </url>
