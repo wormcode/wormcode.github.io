@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://wormcode.github.io/post/cgan/conditional-generative-adversarial-nets/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wormcode.github.io/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
