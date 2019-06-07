@@ -6,29 +6,10 @@
     <description>Recent content on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wormcode.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>reinforcement learning</title>
-      <link>https://wormcode.github.io/post/reinforcement-learning-an-introduction-translate-copy/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wormcode.github.io/post/reinforcement-learning-an-introduction-translate-copy/</guid>
-      <description>v\:* {behavior:url(#default#VML);} o\:* {behavior:url(#default#VML);} w\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);}    common Normal common 2 233 2019-06-01T06:56:00Z 2019-06-01T06:56:00Z 544 199385 1136498 Microsoft Corporation 9470 2666 1333217 14.00         false   9.05 pt 9.05 pt  false false false  EN-US ZH-CN X-NONE                        /* Style Definitions */ table.</description>
-    </item>
-    
-    <item>
-      <title>翻译 Conditional Generative Adversarial Nets</title>
-      <link>https://wormcode.github.io/post/cgan/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wormcode.github.io/post/cgan/</guid>
-      <description>v\:* {behavior:url(#default#VML);} o\:* {behavior:url(#default#VML);} w\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);}   Conditional Generative Adversarial Nets   common Normal common 25 1243 2019-06-03T11:15:00Z 2019-06-06T05:48:00Z 6 3051 17395 Microsoft Corporation 144 40 20406 14.00      &amp;lt;!&amp;ndash;[if gte mso 9]&amp;gt;  200/w:Zoom Clean/w:SpellingState false/w:TrackMoves   false/w:SaveIfXMLInvalid false/w:IgnoreMixedContent
-false EN-US/w:LidThemeOther ZH-CN/w:LidThemeAsian X-NONE/w:LidThemeComplexScript     /w:Compatibility MicrosoftInternetExplorer4/w:BrowserLevel   /m:mathPr/w:WordDocument &amp;lt;![endif]&amp;ndash;&amp;gt;    &amp;lt;!&amp;ndash;.MJX-CHTML {display: inline-block; font-size-adjust: none; word-wrap: normal; max-width: none; max-height: none; min-width: 0; min-height: 0; float:none; word-spacing:normal;} .</description>
-    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -37,42 +18,6 @@ false EN-US/w:LidThemeOther ZH-CN/w:LidThemeAsian X-NONE/w:LidThemeComplexScript
       
       <guid>https://wormcode.github.io/publication/preprint/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://wormcode.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wormcode.github.io/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
-    </item>
-    
-    <item>
-      <title>test post</title>
-      <link>https://wormcode.github.io/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wormcode.github.io/post/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
-    </item>
-    
-    <item>
-      <title>翻译 SC-FEGAN:Face Editing Generative Adversarial Network with User’s Sketch and Color</title>
-      <link>https://wormcode.github.io/post/sc-fegan/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wormcode.github.io/post/sc-fegan/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://wormcode.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://wormcode.github.io/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
     <item>
@@ -96,7 +41,7 @@ false EN-US/w:LidThemeOther ZH-CN/w:LidThemeAsian X-NONE/w:LidThemeComplexScript
     <item>
       <title></title>
       <link>https://wormcode.github.io/authors/admin/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wormcode.github.io/authors/admin/</guid>
       <description>JM Liu is a engineer of artificial intelligence. He learns lots of artificial intelligence courses and practiced lots of hands on projects and had read many papers.</description>

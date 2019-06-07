@@ -34,27 +34,6 @@
   </url>
   
   <url>
-    <loc>https://wormcode.github.io/authors/admin/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/authors/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/post/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/post/reinforcement-learning-an-introduction-translate-copy/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wormcode.github.io/project/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -78,8 +57,8 @@
   </url>
   
   <url>
-    <loc>https://wormcode.github.io/post/cgan/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <loc>https://wormcode.github.io/authors/admin/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -91,6 +70,12 @@
   <url>
     <loc>https://wormcode.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wormcode.github.io/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -111,11 +96,6 @@
   </url>
   
   <url>
-    <loc>https://wormcode.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wormcode.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -123,16 +103,6 @@
   
   <url>
     <loc>https://wormcode.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/post/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/post/sc-fegan/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -156,17 +126,6 @@
   <url>
     <loc>https://wormcode.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wormcode.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -204,6 +163,10 @@
   
   <url>
     <loc>https://wormcode.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wormcode.github.io/post/</loc>
   </url>
   
 </urlset>
