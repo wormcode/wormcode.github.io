@@ -1,0 +1,74 @@
+---
+title: Deep learning 100+ projects 
+subtitle: Deep learning 100+ projects  series
+summary: through those projects you will be a Deep learning engineer
+authors:
+- admin
+tags: []
+categories: []
+date: "2019-05-30T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+**Projects**
+
+- 1. comments classification
+
+this is the first deep learning project use the baby neural network, 
+it is a binary classification.
+it  have some problems, the accurate is low.
+please fix the problem.
+
+[data:](http://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz) http://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz 
+[more data:]( http://www.cs.cornell.edu/people/pabo/movie-review-data/) http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+'''sh
+安装nltk（自然语言工具库 [Natural Language Toolkit](http://www.nltk.org/)）
+$ pip install nltk
+	
+$ python
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 26 2016, 10:47:25) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>> import nltk
+>>> nltk.download()
+
+下载nltk数据：
+$ python
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 26 2016, 10:47:25) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import nltk
+>>> nltk.download()
+
+
+ntlk有详细安装文档。
+
+测试nltk安装：
+>>> from nltk.corpus import brown
+>>> brown.words()
+['The', 'Fulton', 'County', 'Grand', 'Jury', 'said', ...]
+	
+
+'''
+
+there are problems with this neural networks, that result not work
+there are couple of tips for you to figure it out:
+1. Is it get enough data?
+2. How about  the capacity of networks?
